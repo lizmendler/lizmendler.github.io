@@ -10,13 +10,13 @@ This repository will be used to hold my assignments and labs for my CTI 110 clas
 
 ## My Interests
 
-I enjoy playing video games, hiking, horse back riding and spending time with friends. The top 3 video games that I currently play include:
+I enjoy playing video games, hiking, horse back riding and spending time with friends. My top 3 video games that I currently play with my friends include:
 
 1. Escape from Tarkov
 2. R.E.P.O
 3. Phasmophobia
 
-Academically, I am intrigued by the world of computers and coding. I enjoy seeing a product from the effort that I put into my work and it is important to me that the work that I put out into the world is representative of my efforts and skills. I am also passionate about continuously improving and want to eventually work my way into data engineering for wildlife conservation.
+Academically, I am intrigued by the world of computers and coding. I enjoy seeing a product from the effort that I put into my work. It is important to me that the work that I put out into the world is representative of my efforts and skills. I am also passionate about continuously improving and want to eventually work my way into data engineering or data analysis for wildlife conservation.
 
 ## Websites I Recommend
 
